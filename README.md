@@ -1,7 +1,5 @@
 # Data analysis in Python using built-in types
 
------
-
 ## Learning Objectives
 
 * Using the command line to:
